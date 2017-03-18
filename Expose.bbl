@@ -27,4 +27,10 @@ Tetreault Nobata, Mehdad Thomas, and Chang.
 \newblock Abusive language detection in online user content.
 \newblock 2016.
 
+\bibitem{Wang2008}
+Zhang Wang, Anvik Xie, and Sun.
+\newblock An approach to detecting duplicate bug reports using natural language
+  and execution information.
+\newblock 2008.
+
 \end{thebibliography}
