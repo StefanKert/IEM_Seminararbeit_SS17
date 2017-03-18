@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{Dinsoreanu2014}
+Potolea Dinsoreanu, Rădulescu.
+\newblock Identification of spam comments using natural language processing
+  techniques.
+\newblock {\em Intelligent Computer Communication and Processing}, 2014.
+
+\bibitem{Huber2009}
+Bernhard~M. Huber.
+\newblock {\em Managementsysteme für IT-Serviceorganisationen: Entwicklung und
+  Umsetzung mit EFQM, COBIT, ISO 20000, ITIL}.
+\newblock dpunkt Verlag, 2009.
+
+\bibitem{Jurafsky2008}
+Dan Jurafsky and James H.Martin.
+\newblock {\em Speech and Language Processing}.
+\newblock Prentice Hall, 2008.
+
+\bibitem{Manning1999}
+Christopher~S Manning.
+\newblock {\em Foundations of Statistical Natural Language Processing}.
+\newblock Mit University Press Group Ltd, 1999.
+
+\bibitem{Nobata2016}
+Tetreault Nobata, Mehdad Thomas, and Chang.
+\newblock Abusive language detection in online user content.
+\newblock 2016.
+
+\end{thebibliography}
