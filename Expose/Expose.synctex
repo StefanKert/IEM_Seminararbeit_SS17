@@ -1,5 +1,5 @@
 SyncTeX Version:1
-Input:1:C:\Users\Stefan\Documents\GitHub\IEM_Seminararbeit_SS17\Expose.tex
+Input:1:C:\Users\Stefan\Documents\GitHub\IEM_Seminararbeit_SS17\Expose\Expose.tex
 Input:2:C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrartcl.cls
 Input:3:C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrkbase.sty
 Input:4:C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrbase.sty
@@ -20,7 +20,7 @@ Input:18:C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
 Input:19:C:\Program Files\MiKTeX 2.9\tex\latex\babel-german\german.ldf
 Input:20:C:\Program Files\MiKTeX 2.9\tex\latex\babel-german\germanb.ldf
 Input:21:C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def
-Input:22:C:\Users\Stefan\Documents\GitHub\IEM_Seminararbeit_SS17\Expose.aux
+Input:22:C:\Users\Stefan\Documents\GitHub\IEM_Seminararbeit_SS17\Expose\Expose.aux
 Input:23:C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd
 Output:pdf
 Magnification:1000
@@ -28,7 +28,7 @@ Unit:1
 X Offset:0
 Y Offset:0
 Content:
-!1642
+!1656
 {1
 [1,20:4736286,47703979:28548252,42967693,0
 [1,20:5873742,47703979:27410796,44616927,0
@@ -122,15 +122,15 @@ g1,14:22255265,15768765
 k1,14:33284537,15768765:11029272
 )
 (1,14:5873742,17661961:27410796,649902,0
-k1,14:16797122,17661961:10923380
-h1,14:16797122,17661961:0,0,0
-x1,14:17944753,17661961
-g1,14:18244037,17661961
-x1,14:20265265,17661961
-g1,14:20564549,17661961
-x1,14:22361157,17661961
-g1,14:22361157,17661961
-k1,14:33284537,17661961:10923380
+k1,14:17046676,17661961:11172934
+h1,14:17046676,17661961:0,0,0
+x1,14:18194307,17661961
+g1,14:18493591,17661961
+x1,14:20015711,17661961
+g1,14:20314995,17661961
+x1,14:22111603,17661961
+g1,14:22111603,17661961
+k1,14:33284537,17661961:11172934
 )
 (1,15:5873742,21055137:27410796,651269,0
 (1,15:5873742,21055137:1037842,603533,0
@@ -2259,8 +2259,8 @@ g1,45:33284538,47703979
 ]
 !29249
 }2
-Input:24:C:\Users\Stefan\Documents\GitHub\IEM_Seminararbeit_SS17\Expose.bbl
-!86
+Input:24:C:\Users\Stefan\Documents\GitHub\IEM_Seminararbeit_SS17\Expose\Expose.bbl
+!93
 {3
 [24,30:4736286,47703979:28548252,42967693,0
 [24,30:5873742,47703979:27410796,44616927,0
@@ -3295,8 +3295,8 @@ g1,71:33284538,47703979
 ]
 !3319
 }4
-Input:25:C:\Users\Stefan\Documents\GitHub\IEM_Seminararbeit_SS17\Expose.aux
-!85
+Input:25:C:\Users\Stefan\Documents\GitHub\IEM_Seminararbeit_SS17\Expose\Expose.aux
+!92
 Postamble:
 Count:1486
 !26
