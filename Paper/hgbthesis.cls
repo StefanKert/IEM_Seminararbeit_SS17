@@ -279,7 +279,9 @@
 				\@title%
 			}
 			\vskip 15mm%
-			{\Large\@author}%{\large\scshape\@author}%
+			{\Large Seminararbeit}%
+			\vskip 4mm%
+			{\@author}%{\scshape\@author}%
 			\vskip 15mm%
 			\makelogo%
 			\vskip 15mm%
